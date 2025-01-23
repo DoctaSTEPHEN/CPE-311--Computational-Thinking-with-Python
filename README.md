@@ -5,5 +5,5 @@ Welcome to my Github repository, which will compile all my code/programs in our 
  • Age: 19<br>
  • Hobbies: Reading, Gaming
 <h3><b>How to reach me</b></h3>
- • Gmail: <a href='mailto:qjddocta@tip.edu.ph'>qjddocta@tip.edu.ph<br>
-  • Facebook: [Joshua Stephen Docta](https://www.facebook.com/joshuastephendocta) 
+ • Gmail: <a href='mailto:qjddocta@tip.edu.ph'>qjddocta@tip.edu.ph</a><br>
+ • Facebook: <a href='https://www.facebook.com/joshuastephendocta'>Joshua Stephen Docta</a>
