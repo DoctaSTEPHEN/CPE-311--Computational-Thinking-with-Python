@@ -1,2 +1,5 @@
-# CPE-311: Computational Thinking with Python
-Good day, everyone! My name is Joshua Stephen Docta, and I am currently a second-year student pursuing a degree in Computer Engineering at the Technological Institute of the Philippines (TIP).
+# Hi there, I'm Joshua Stephen Docta
+Welcome to my github repository, which will compile all my code/programs in our course.
+**About Me**
+• Current Status: 2nd year Compueter Engineering student(2025)
+• Hobbies: Reading, Gaming
